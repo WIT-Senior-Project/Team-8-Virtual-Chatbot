@@ -21,3 +21,7 @@ requests==2.32.3  # For making API calls to Azure TTS
 # os, json, re - no external package required
 
 pydub
+
+pyaudio
+
+websockets
